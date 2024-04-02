@@ -1,0 +1,36 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-from_city",
+      "2": "I-from_city",
+      "3": "L-from_city",
+      "4": "U-from_city",
+      "5": "B-name",
+      "6": "I-name",
+      "7": "L-name",
+      "8": "U-name",
+      "9": "B-to_city",
+      "10": "I-to_city",
+      "11": "L-to_city",
+      "12": "U-to_city",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-from_city": 1,
+      "I-from_city": 2,
+      "L-from_city": 3,
+      "U-from_city": 4,
+      "B-name": 5,
+      "I-name": 6,
+      "L-name": 7,
+      "U-name": 8,
+      "B-to_city": 9,
+      "I-to_city": 10,
+      "L-to_city": 11,
+      "U-to_city": 12,
+      "O": 0
+    },
+    "num_tags": 13
+  }
+]

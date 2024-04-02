@@ -1,0 +1,44 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-departure_date",
+      "2": "I-departure_date",
+      "3": "L-departure_date",
+      "4": "U-departure_date",
+      "5": "B-from_location",
+      "6": "I-from_location",
+      "7": "L-from_location",
+      "8": "U-from_location",
+      "9": "B-name",
+      "10": "I-name",
+      "11": "L-name",
+      "12": "U-name",
+      "13": "B-to_location",
+      "14": "I-to_location",
+      "15": "L-to_location",
+      "16": "U-to_location",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-departure_date": 1,
+      "I-departure_date": 2,
+      "L-departure_date": 3,
+      "U-departure_date": 4,
+      "B-from_location": 5,
+      "I-from_location": 6,
+      "L-from_location": 7,
+      "U-from_location": 8,
+      "B-name": 9,
+      "I-name": 10,
+      "L-name": 11,
+      "U-name": 12,
+      "B-to_location": 13,
+      "I-to_location": 14,
+      "L-to_location": 15,
+      "U-to_location": 16,
+      "O": 0
+    },
+    "num_tags": 17
+  }
+]
